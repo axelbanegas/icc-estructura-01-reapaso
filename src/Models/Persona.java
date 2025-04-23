@@ -6,8 +6,8 @@ package Models;
  */
 public class Persona {
     // Atributos de la clase
-    String nombre; // Almacena el nombre de la persona
-    int edad; // Almacena la edad de la persona
+    private String nombre; // Almacena el nombre de la persona
+    private int edad; // Almacena la edad de la persona
 
     /**
      * Constructor para crear una nueva instancia de Persona con un nombre y edad
